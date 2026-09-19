@@ -7,58 +7,41 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Professional Experience
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**PhD Candidate** (Leiden University)
+  - July 2025 (ongoing)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Computer Vision Engineer** (LidSafe)
+  - October 2024 - April 2025
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Deep Learning Research** (Erasmus MC)
+  - January 2024 - June 2024
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**AI Education Assistant** (University of Amsterdam)
+  - February 2024 – April 2024
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**AI Developer** (Nimble Institute)
+  - April 2021 – November 2022
+
+## Education
+
+**Artificial Intelligence MSc** — University of Amsterdam
+- Thesis: *Deep learning for high-framerate LED-based photoacoustic imaging*. 
+- Presented at Photonics West 2025.
+
+**Artificial Intelligence BSc** — University of Groningen
+- Thesis: *Towards safer autonomous vehicles: Applying uncertainty quantification to pedestrian detectors*.
+
+## Technical Knowledge
+
+- **Languages:** Python, Java, C, C++, JavaScript, R, MATLAB, LaTeX, Git, SQL, Docker, Linux, MySQL, Jupyter
+- **Libraries:** PyTorch, TensorFlow, Keras, SciKit, OpenCV, NumPy, ROS, Pandas, Matplotlib, Seaborn, PySpark
+- **Skills/Software:** Deep learning, Machine learning, HPC, Computer Vision, REST API, LLMs, Software development, NLP, Generative AI, Data visualization, Statistics, Azure, GPU Acceleration, Image Processing, MLOps
+
+## Languages
+
+* English (C2, Native) 
+* Russian (C2, Native)
+* Dutch (B1, Intermediate)
+* Romanian (A1, Beginner)
