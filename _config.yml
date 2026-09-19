@@ -23,7 +23,7 @@ repository               : "fbaratov/fbaratov.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Farrukh Baratov"
   pronouns         : # example: "he/him"  
   bio              : "PhD researching regulatory compliance detection"
@@ -33,7 +33,7 @@ author:
   email            : "f.s.baratov@liacs.leidenuniv.nl" 
 
   # Academic websites
-  academia         : # URL
+  academia         : https://www.universiteitleiden.nl/en/staffmembers/farrukh-baratov#tab-1
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=EVrMDPUAAAAJ&hl=en"
   inspire-hep      : # URL
