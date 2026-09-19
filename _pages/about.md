@@ -16,4 +16,3 @@ Some fun facts:
 * I'm from Uzbekistan, but I've lived in the Netherlands since 2019.
 * I like story-driven video games. [Signalis](https://youtu.be/XJPqmHEjkjE?si=UvBoTlQcdY07gzMQ) is one of my favorites.
 * I like cooking, and I'm pretty good at it!
-* I have no pets, but my family has a cat named Sherlock.
