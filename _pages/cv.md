@@ -9,6 +9,7 @@ redirect_from:
 
 ## Professional Experience
 
+
 **PhD Candidate** (Leiden University)
   - July 2025 (ongoing)
 
@@ -26,6 +27,7 @@ redirect_from:
 
 ## Education
 
+
 **Artificial Intelligence MSc** — University of Amsterdam
 - Thesis: *Deep learning for high-framerate LED-based photoacoustic imaging*. 
 - Presented at Photonics West 2025.
@@ -35,11 +37,13 @@ redirect_from:
 
 ## Technical Knowledge
 
+
 - **Languages:** Python, Java, C, C++, JavaScript, R, MATLAB, LaTeX, Git, SQL, Docker, Linux, MySQL, Jupyter
 - **Libraries:** PyTorch, TensorFlow, Keras, SciKit, OpenCV, NumPy, ROS, Pandas, Matplotlib, Seaborn, PySpark
 - **Skills/Software:** Deep learning, Machine learning, HPC, Computer Vision, REST API, LLMs, Software development, NLP, Generative AI, Data visualization, Statistics, Azure, GPU Acceleration, Image Processing, MLOps
 
 ## Languages
+
 
 * English (C2, Native) 
 * Russian (C2, Native)
